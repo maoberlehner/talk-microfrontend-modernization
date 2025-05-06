@@ -17,7 +17,7 @@ layout: statement
 
 ---
 layout: image
-image: "/images/sad.png"
+image: "/images/sad.jpg"
 ---
 
 ---
